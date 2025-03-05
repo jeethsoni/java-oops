@@ -33,7 +33,7 @@ by converting the height into a standard format.
 
 :brain: What did I learn?
 
-Well, I learned that this OOPS is better and important than when you make a mistake and say "OOPS":laughing:. 
+Well, I learned that this OOPS is better and important than when you make a mistake and say "OOPS" :laughing:. 
 This project helped me understand the importance of encapsulation, composition, and how object-oriented design 
 makes the program modular and reusable.
 
