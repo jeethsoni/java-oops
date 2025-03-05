@@ -1,7 +1,7 @@
 ## Tallest Basketball Player
 **Author - Jeet Soni**
 
-**Date - March 1, 2025**
+**Date - March 4, 2025**
 
 ---
 
@@ -31,7 +31,7 @@ by converting the height into a standard format.
 
 ![alt text](docs/screenshots/tallest-player.png)
 
-:brain: What did I learn?
+### :brain: What did I learn?
 
 Well, I learned that this OOPS is better and important than when you make a mistake and say "OOPS" :laughing:. 
 This project helped me understand the importance of encapsulation, composition, and how object-oriented design 
